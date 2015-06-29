@@ -1,0 +1,76 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/dez/2014, 1:47:40
+    Author     : wagner
+*/
+.promptTf{
+    -fx-prompt-text-fill: #e81745 ;
+}
+
+.toolNome{
+    -fx-background-color: #43c6bc;
+}
+.btEnviar{
+    -fx-cursor: hand;
+    -fx-background-color: #c95353;
+    -fx-text-fill: white;
+
+}
+.btEnviar:hover{
+    -fx-background-color: #21a463;
+    -fx-text-fill: white;
+}
+
+.btSair{
+    -fx-cursor: hand;
+    -fx-background-color: #d1395a;
+    -fx-text-fill: white;
+    -fx-opacity: 0.5;
+    -fx-background-radius: 50;
+}
+.btSair:hover{
+    -fx-background-color: #e81745;
+    -fx-opacity: 1;
+}
+.btRelatorio{
+    -fx-cursor: hand;
+    -fx-background-color: #339eba;
+    -fx-text-fill: white;
+}
+.btRelatorio:hover{
+    -fx-cursor: hand;
+    -fx-background-color: #338ebb;
+    -fx-text-fill: white;
+}
+.lblResultado{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+.lblDivisivel{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+/*.custom-text-field
+{
+    -fx-background-color: transparent, #d1395a;
+    -fx-background-radius: 0, 0, 0, 0;
+    -fx-padding: 0.166667em;
+}
+ 
+.custom-text-field:hover
+{
+    -fx-background-color: transparent, #43c6bc, transparent, white;
+    -fx-background-radius: 0, 0, 0, 0;
+    -fx-padding: 0.166667em;
+}
+ 
+.custom-text-field:focused
+{
+    -fx-background-color: transparent, #009EF, transparent, white;
+    -fx-background-radius: 0, 0, 0, 0;
+    -fx-padding: 0.166667em;
+}*/
